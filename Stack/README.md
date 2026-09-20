@@ -1,6 +1,6 @@
 # Stack
 
-This folder contains my practice problems and implementations related to the Stack data structure.
+This folder contains my practice problems and implementations related to the Stack data structure
 
 ## About Stack
 
