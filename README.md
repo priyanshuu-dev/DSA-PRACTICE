@@ -1,4 +1,4 @@
-# 🧠 DSA Practice
+#  DSA Practice
 
 Welcome to my **Data Structures & Algorithms practice repository** 🚀
 
@@ -6,7 +6,7 @@ This repo is where I consistently solve problems to improve my **problem-solving
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 * Strengthen problem-solving skills
 * Master common patterns (Sliding Window, Two Pointers, etc.)
@@ -15,15 +15,15 @@ This repo is where I consistently solve problems to improve my **problem-solving
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
-* **Language:** Python
-* **Platform:** LeetCode (primarily)
+* **Language:** Python,Java
+* **Platform:** LeetCode,gfg
 * **Concepts:** Arrays, Strings, Linked List, Trees, Sliding Window, Two Pointers
 
 ---
 
-## 📂 Structure
+##  Structure
 
 Problems are organized by patterns/topics for better understanding:
 
@@ -33,45 +33,6 @@ Problems are organized by patterns/topics for better understanding:
 * 📁 Two Pointers
 * 📁 Binary Search *(coming soon)*
 * 📁 Trees *(coming soon)*
-
----
-
-## 🔥 Progress Tracker
-
-* ✅ Easy Problems
-* ✅ Medium Problems
-* ⏳ Hard Problems (in progress...)
-
----
-
-## 💡 Approach
-
-For each problem, I focus on:
-
-* Understanding the problem deeply
-* Writing brute force first (if needed)
-* Optimizing step-by-step
-* Learning patterns instead of memorizing solutions
-
----
-
-## 📈 Why this repo?
-
-This is not just a collection of solutions.
-It’s a **learning journey** where I document progress and improve consistency every day.
-
----
-
-## 🚀 Future Plans
-
-* Add more problems regularly
-* Cover advanced patterns
-* Add explanations for each solution
-* Track daily/weekly progress
-
----
-
-## 👨‍💻 Author
 
 **Priyanshu**
 GitHub: https://github.com/priyanshuu-dev
