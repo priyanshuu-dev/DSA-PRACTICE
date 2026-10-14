@@ -1,6 +1,6 @@
 # Recursion
 
-This repository contains my practice and implementations of recursion problems in Java.
+This repository contains my practice and implementations of recursion problems in Java
 
 ## Topics Covered
 
